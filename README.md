@@ -40,7 +40,7 @@ This repository includes interview questions and answers on :
 3. [25 Must Know Time Series Interview Questions and Answers](#)  
 
 ### Deep Learning & Computer Vision  
-1. Top 10 Convolutional Neural Network Interview Questions and Answers](#)
+1. [Top 10 Convolutional Neural Network Interview Questions and Answers](#)
 2. [100 Deep Learning Interview Questions and Answers](#)
 3. [25 Computer Vision Engineer Interview Questions and Answers](#)  
 
